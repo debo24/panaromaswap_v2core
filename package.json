@@ -1,7 +1,7 @@
 {
   "name": "panaromaswap_v2core",
   "description": "Core contracts for the PanaromaswapV2 protocol",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/debo24/panaromaswap_v2core"
